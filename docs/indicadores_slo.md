@@ -500,8 +500,7 @@ No se desplegará infraestructura en la nube.
 ## 18. Referencias
 
 - Material académico T19 proporcionado para el proyecto.
-- Material académico T20 proporcionado para el proyecto.
-- Documentación técnica del proyecto Sentinel.
+- Material académico T20 proporcionado para el proyecto.- Documentación técnica del proyecto Sentinel.
 - Documentación oficial de Prometheus, Grafana, MLflow, Evidently y OpenTelemetry.
 
 Las configuraciones y los umbrales específicos de Sentinel Observability son propuestas de diseño del proyecto y deberán contrastarse con las mediciones obtenidas durante la implementación.
