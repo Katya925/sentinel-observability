@@ -202,4 +202,3 @@ gobernanza operativa más avanzada.
 - runbooks/INC-002_high_latency.md
 - docs/indicadores_slo.md
 - docs/alertas_y_automatizacion.md
-- Material académico T19 y T20.
