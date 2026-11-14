@@ -380,7 +380,7 @@ http://localhost:9090/alerts
 
 Documento:
 
-[Alertas y automatización](docs/alertas_y automatizacion.md)
+[Alertas y automatización](docs/alertas_y_automatizacion.md)
 
 ---
 
