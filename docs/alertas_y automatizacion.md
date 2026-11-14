@@ -343,8 +343,6 @@ gestión avanzada de notificaciones y gobernanza MLOps.
 
 ### 15. Referencias
 
-- Material académico T19.
-- Material académico T20.
 - docs/indicadores_slo.md.
 - docs/arquitectura_observabilidad.md.
 - Documentación oficial de Prometheus y Grafana.
