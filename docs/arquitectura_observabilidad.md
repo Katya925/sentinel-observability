@@ -396,8 +396,6 @@ gobernanza y resiliencia.
 
 ### 20. Referencias
 
-- Material académico T19: observabilidad y monitorización.
-- Material académico T20: continuidad y gestión operativa.
 - Documentación técnica del proyecto Sentinel.
 - Documentación oficial de Prometheus.
 - Documentación oficial de Grafana y Tempo.
