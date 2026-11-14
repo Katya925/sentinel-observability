@@ -8,7 +8,7 @@
 
 ## 1. Descripción del proyecto
 
-Sentinel Observability amplía el proyecto Sentinel Fraud Detection desarrollado en Fase II, mediante una arquitectura de observabilidad moderna para supervisar un servicio de Machine Learning.
+Sentinel Observability amplía el proyecto Sentinel Fraud Detection desarrollado en Fase II, mediante una arquitectura de observabilidad para supervisar un servicio de Machine Learning.
 
 La solución integra:
 
@@ -531,8 +531,6 @@ mayor automatización y gobernanza.
 
 ## 19. Referencias
 
-- Material académico T19.
-- Material académico T20.
 - Proyecto Sentinel Fraud Detection.
 - Documentación oficial de Prometheus.
 - Documentación oficial de Grafana y Tempo.
